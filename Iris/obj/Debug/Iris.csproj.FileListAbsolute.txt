@@ -1,0 +1,9 @@
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\bin\Debug\Iris.exe.config
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\bin\Debug\Iris.exe
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\bin\Debug\Iris.pdb
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.csprojResolveAssemblyReference.cache
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.Iris.resources
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.Properties.Resources.resources
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.csproj.GenerateResource.Cache
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.exe
+c:\users\wengli\documents\visual studio 2012\Projects\Iris\Iris\obj\Debug\Iris.pdb
